@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvacadoWizard120
 - 👀 I’m interested in game design and writing code with lots of variables
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my Minecraft server website
+- 🌱 I’m currently brushing up on my Java
+- 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me ...  Discord: ConfusingFool93#8754
 
 <!---
